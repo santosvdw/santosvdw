@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hoi, ik ben Santos! 👋
 
 <!--
 **santosvdw/santosvdw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="santosvdw.png" width="20%">
