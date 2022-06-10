@@ -1,3 +1,5 @@
+<img src="santosvdw(1).png" alt="">
+
 <h1 align="center">Hoi 👋, ik ben Santos</h1>
 <h3 align="center">Ik codeer soms dingen.. :)</h3>
 
