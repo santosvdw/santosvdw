@@ -5,7 +5,7 @@
 
 - 🌱 Ik ben een leerling op het **OSG West-Friesland**
 
-- 👨‍💻 Al mijn afgemaakte projecten zijn te zien op [TBA](TBA)
+- 👨‍💻 Al mijn afgemaakte projecten zijn te zien op [PORTOFOLIO = TBA](TBA)
 
 - 📫 Neem contact met me op **srrvdwansem@gmail.com**
 
