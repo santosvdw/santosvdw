@@ -1,6 +1,6 @@
 ## About me
 
-Hoi, ik ben Santos en ik codeer soms
+Hoi, ik ben Santos en ik codeer soms <br />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santosvdw)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
