@@ -1,4 +1,4 @@
-<img src="santosvdw (1).png" alt="">
+<img src="santosvdw (1).png" alt="" width="100%">
 
 <h1 align="center">Hoi 👋, ik ben Santos</h1>
 <h3 align="center">Ik codeer soms dingen.. :)</h3>
