@@ -7,7 +7,7 @@
 
 - 👨‍💻 Al mijn afgemaakte projecten zijn te zien op [PORTOFOLIO = TBA](#)
 
-- 📫 Neem contact met me op **srrvdwansem@gmail.com**
+- 📫 Neem contact met me op via **srrvdwansem@gmail.com**
 
 <p align="left">
 </p>
