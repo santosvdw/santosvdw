@@ -22,7 +22,7 @@ Een chrome extensie. [Bekijk dit project](https://github.com/santosvdw/dystopia-
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   5 hrs 5 mins    ██████████████▓░░░░░░░░░░   58.61 %
+JavaScript   5 hrs 5 mins    ██████████████▓░░░░░░░░░░   58.64 %
 CSS          1 hr 13 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.05 %
 HTML         1 hr 9 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.35 %
 JSON         55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 %
