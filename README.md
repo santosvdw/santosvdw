@@ -19,7 +19,7 @@
 - JavaScript
 
 ### Momenteel werk ik aan:
-- Mijn portofolio
+- 
 
 ### Wat heb ik de afgelopen week gedaan?
 <!--START_SECTION:waka-->
