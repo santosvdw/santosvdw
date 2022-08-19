@@ -18,8 +18,8 @@
 - React
 - JavaScript
 
-### Momenteel werk ik aan:
-- 
+<!-- ### Momenteel werk ik aan:
+- -->
 
 ### Wat heb ik de afgelopen week gedaan?
 <!--START_SECTION:waka-->
