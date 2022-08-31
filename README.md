@@ -1,5 +1,4 @@
 <h1 align="center">Hoi 👋, ik ben Santos</h1>
-<h3 align="center">Ik codeer soms dingen.. :)</h3>
 
 - 🌱 Ik ben een leerling op het **OSG West-Friesland**
 
