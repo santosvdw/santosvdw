@@ -1,6 +1,5 @@
 <h1 align="center">Hoi 👋, ik ben Santos</h1>
 <h3 align="center">Ik codeer soms dingen.. :)</h3>
-<h6 color="#FDFDFD" align="center"><i>Code is like humor. If you have to explain it, it's bad.</i></h6>
 
 - 🌱 Ik ben een leerling op het **OSG West-Friesland**
 
