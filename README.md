@@ -1,6 +1,6 @@
 ``` javascript
 const name = {
-    first_name: Santos,
+    first_name: "Santos",
     age: new Date().getFullYear() - 2007
 }
 
