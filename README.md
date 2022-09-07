@@ -15,9 +15,9 @@ greeting(first_name, age)
 ``` console
 Hi, I'm Santos and I'm 15 years old. It's nice to meet you!
 ```
-
+<!--
 ### Wat heb ik de afgelopen week gedaan?
-<!--START_SECTION:waka-->
+<!-a-START_SECTION:waka-a->
 
 ```text
 JavaScript   2 hrs 12 mins   ██████████████████▓░░░░░░   74.43 %
@@ -28,7 +28,8 @@ JSON         3 mins          ▓░░░░░░░░░░░░░░░░
 HTML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
 ```
 
-<!--END_SECTION:waka-->
+<!-a-END_SECTION:waka-a-> 
+-->
 
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santosvdw&show_icons=true&locale=en" alt="santosvdw" /></p>-->
