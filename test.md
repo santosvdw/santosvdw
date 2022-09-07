@@ -1,33 +1,18 @@
- <img src="https://raw.githubusercontent.com/santosvdw/santosvdw/main/github-metrics.svg" align="left" alt="About me" title="About me" width="500" />
 
-```kotlin
-object Me {
-    val names = arrayOf(
-        "Emilia", "Jasmine")
-
-    val pronouns = arrayOf(
-        "They/Them", "She/Her")
-
-    val tz = TimeZone.
-        getTimeZone("Europe/Amsterdam")
-
-    fun pronounceGIF(): String {
-        val pronunciations = arrayOf(
-            "χɪf", "Gif", "Jif", "Yif")
-
-        return pronunciations[Random()
-            .nextInt(pronunciations.size)]
-    }
+``` javascript
+const name = {
+    first_name: Santos,
+    age: new Date().getFullYear() - 2007
 }
 
-```
+const {first_name, age} = name
 
-</br>
-<div>
-    <a>
-        <img src="https://raw.githubusercontent.com/santosvdw/santosvdw/main/metrics.plugin.activity.svg" align="right" width="400">
-    </a>
-    <a>
-        <img src="https://raw.githubusercontent.com/santosvdw/santosvdw/main/metrics.plugin.isocalendar.fullyear.svg" align="left" width="400" />
-    </a>
-</div>
+function greeting(name,age) {
+    console.log(`Hi, I'm ${name} and I'm ${age} years old. It's nice to meet you!`) 
+}
+
+greeting(first_name, age)
+```
+``` console
+Hi, I'm Santos and I'm 15 years old. It's nice to meet you!
+```
