@@ -11,10 +11,20 @@ function greeting(name,age) {
 }
 
 greeting(first_name, age)
+
+////
+
+let myStack = ['javascript', 'react', 'html', 'scss', 'css'];
+
+console.log(`This is my stack: ${myStack}`);
+
 ```
 ``` console
 Hi, I'm Santos and I'm 15 years old. It's nice to meet you!
+This is my stack: javascript, react, html, scss, css
 ```
+
+
 <!--
 ### Wat heb ik de afgelopen week gedaan?
 <!-a-START_SECTION:waka-a->
