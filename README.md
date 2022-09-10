@@ -6,7 +6,7 @@ const name = {
 
 const {first_name, age} = name
 
-function greeting(name,age) {
+function greeting(name, age) {
     console.log(`Hi, I'm ${name} and I'm ${age} years old. It's nice to meet you!`) 
 }
 
