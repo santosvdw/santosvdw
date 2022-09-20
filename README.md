@@ -1,10 +1,10 @@
 ``` javascript
-const name = {
+const me = {
     first_name: "Santos",
     age: new Date().getFullYear() - 2007
 }
 
-const {first_name, age} = name
+const {first_name, age} = me
 
 function greeting(name, age) {
     console.log(`Hi, I'm ${name} and I'm ${age} years old. It's nice to meet you!`) 
