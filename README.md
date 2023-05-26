@@ -14,14 +14,14 @@ greeting(first_name, age)
 
 ////
 
-let myStack = ['javascript', 'react', 'php', 'laravel', 'html', 'scss', 'css'];
+let myStack = ['javascript', 'typescript', 'react', 'php', 'laravel', 'html', 'scss', 'css'];
 
 console.log(`This is my stack: ${myStack}`);
 
 ```
 ``` console
-Hi, I'm Santos and I'm 15 years old. It's nice to meet you!
-This is my stack: javascript, react, php, laravel, html, scss, css
+Hi, I'm Santos and I'm 16 years old. It's nice to meet you!
+This is my stack: javascript, typescript, react, php, laravel, html, scss, css
 ```
 
 
