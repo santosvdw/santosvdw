@@ -14,5 +14,5 @@ function greeting(name,age) {
 greeting(first_name, age)
 ```
 ``` console
-Hi, I'm Santos and I'm 15 years old. It's nice to meet you!
+Hi, I'm Santos and I'm 16 years old. It's nice to meet you!
 ```
