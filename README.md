@@ -8,7 +8,7 @@ const me = {
 const {first_name, age, education} = me
 
 function greeting(name, age) {
-    console.log(`Hi, I'm ${name} and I'm ${age} years old. Currently I'm studying ${education[0]} at the ${education[1]. It's nice to meet you!`) 
+    console.log(`Hi, I'm ${name} and I'm ${age} years old. Currently I'm studying ${education[0]} at the ${education[1]}. It's nice to meet you!`) 
 }
 
 greeting(first_name, age)
