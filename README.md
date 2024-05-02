@@ -1,27 +1,28 @@
 ``` javascript
 const me = {
     first_name: "Santos",
-    age: new Date().getFullYear() - 2007
+    age: new Date().getFullYear() - 2007,
+    "education": ["Informatica (BSc)", "University of Amsterdam"]
 }
 
-const {first_name, age} = me
+const {first_name, age, education} = me
 
 function greeting(name, age) {
-    console.log(`Hi, I'm ${name} and I'm ${age} years old. It's nice to meet you!`) 
+    console.log(`Hi, I'm ${name} and I'm ${age} years old. Currently I'm studying ${education[0]} at the ${education[1]. It's nice to meet you!`) 
 }
 
 greeting(first_name, age)
 
 ////
 
-let myStack = ['javascript', 'typescript', 'react', 'php', 'laravel', 'html', 'scss', 'css'];
+let myStack = ['javascript', 'php', 'laravel', 'html', 'scss', 'css'];
 
 console.log(`This is my stack: ${myStack}`);
 
 ```
 ``` console
-Hi, I'm Santos and I'm 16 years old. It's nice to meet you!
-This is my stack: javascript, typescript, react, php, laravel, html, scss, css
+Hi, I'm Santos and I'm 16 years old. Currently I'm studying Informatica (BSc) at the University of Amsterdam. It's nice to meet you!
+This is my stack: javascript, php, laravel, html, scss, css
 ```
 
 
