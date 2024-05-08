@@ -2,7 +2,7 @@
 const me = {
     first_name: "Santos",
     age: new Date().getFullYear() - 2007,
-    "education": ["Informatica (BSc)", "University of Amsterdam"]
+    education: ["Informatica (BSc)", "University of Amsterdam"]
 }
 
 const {first_name, age, education} = me
