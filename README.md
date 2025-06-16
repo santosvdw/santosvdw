@@ -21,7 +21,7 @@ console.log(`This is my stack: ${myStack}`);
 
 ```
 ``` console
-Hi, I'm Santos and I'm 17 years old. Currently I'm studying Informatica (BSc) at the University of Amsterdam. It's nice to meet you!
+Hi, I'm Santos and I'm 18 years old. Currently I'm studying Informatica (BSc) at the University of Amsterdam. It's nice to meet you!
 This is my stack: javascript, php, laravel, html, scss, css
 ```
 
