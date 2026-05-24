@@ -15,9 +15,9 @@ greeting(first_name, age, education)
 
 ////
 
-let myStack = ['typescript', 'react', 'python', 'c', 'javascript', 'php', 'laravel', 'sql', 'html', 'scss', 'css'];
+let my_stack = ['typescript', 'react', 'python', 'c', 'javascript', 'php', 'laravel', 'sql', 'html', 'scss', 'css'];
 
-console.log(`This is my stack: ${myStack}`);
+console.log(`This is my stack: ${my_stack}`);
 
 ```
 ``` console
